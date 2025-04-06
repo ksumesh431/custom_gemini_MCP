@@ -4,7 +4,6 @@
 This is a custom MCP that provides three main tools:
 
 ```python
-# tools provided:
 a. get_distribution_info - Fetches CloudFront distribution details
 b. fetch_logs - Retrieves CloudFront logs from CloudWatch
 c. analyze_logs - Analyzes logs for issues and suggests remediations
