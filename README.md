@@ -1,4 +1,4 @@
-# ** Basic Gemini MCP client**
+# Basic Gemini MCP client
 
 1. AWS Lambda Code (API Gateway Integration):
 This is a custom MCP that provides three main tools:
